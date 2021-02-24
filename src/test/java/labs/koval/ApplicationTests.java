@@ -1,4 +1,4 @@
-package java.labs.koval;
+package labs.koval;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
